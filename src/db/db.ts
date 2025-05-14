@@ -44,4 +44,4 @@ export const getDatabasePool = async (): Promise<sql.ConnectionPool> => {
 };
 
 // Esportazione ESM
-export { sql, poolPromise };
+export { sql };
