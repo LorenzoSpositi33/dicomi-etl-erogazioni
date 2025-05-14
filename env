@@ -1,0 +1,14 @@
+# Configurazione accesso al DB
+
+DB_USER=LorenzoSpositi
+DB_PASSWORD=admin
+DB_SERVER=localhost
+DB_NAME=Dicomi_DB
+DB_ENCRYPT=false
+DB_TRUST_SERVER_CERT=true
+
+# API connesse a ICAD
+
+API_CRYPTO_KEY = 45F80B6E4A9BB683
+API_ROOT = https://exportservice-overview.icadsistemi.com/isOverviewExport.svc
+API_RETISTA=10006
